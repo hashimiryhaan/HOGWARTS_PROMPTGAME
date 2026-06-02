@@ -10,7 +10,7 @@
 [![Terminal Game](https://img.shields.io/badge/Platform-Terminal-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)](#)
 
-<img src="https://media.giphy.com/media/xUOwG3sgHkdqoy41wQ/giphy.gif" alt="Hogwarts Magic Animated Banner" width="600"/>
+<img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhwNHR0bWgwbG83Mm8ycDdxN3JzOWt5aWNtNHRyenNjYzF6b3NlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13eD01wPr7iiTC/giphy.gif alt="Hogwarts Magic Animated Banner" width="600"/>
 
 *The wand has chosen. The Sorting Hat is waiting. The Dark Lord is returning. Are you ready?*
 
