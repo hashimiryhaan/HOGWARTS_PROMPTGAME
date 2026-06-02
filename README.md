@@ -58,4 +58,4 @@ Ready to enroll? Getting the game running on your local machine takes less than 
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/shadows-of-hogwarts.git](https://github.com/yourusername/shadows-of-hogwarts.git)
+git clone (https://github.com/hashimiryhaan/HOGWARTS_PROMPTGAME.git)
