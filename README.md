@@ -4,7 +4,7 @@
 
 # ⚡ Shadows of Hogwarts ⚡
 
-**An Interactive, Text-Based Wizarding World RPG Built in Python**
+**An Interactive, Text-Based Wizarding World Prompt Game Built in Python**
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Terminal Game](https://img.shields.io/badge/Platform-Terminal-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
